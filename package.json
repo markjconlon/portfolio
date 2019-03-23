@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-default",
+  "name": "markjconlon.com",
   "private": true,
-  "description": "A simple starter to get up and developing quickly with Gatsby",
+  "description": "Personal Site and Blog of Mark Conlon",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Mark Conon <markjconlon@gmail.com>",
   "dependencies": {
     "gatsby": "^2.2.5",
     "gatsby-image": "^2.0.34",
