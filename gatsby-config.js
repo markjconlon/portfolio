@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Web Dev in TO`,
+    title: `Mark Conlon`,
     description: `Easy going fullstack developer out of Toronto Ontatio Canada.`,
     author: `@markjconlon`,
   },
@@ -40,6 +40,12 @@ module.exports = {
         theme_color: `#663399`,
         display: `minimal-ui`,
         icon: `src/images/gatsby-icon.png`, // This path is relative to the root of the site.
+      },
+    },
+    {
+      resolve: `gatsby-plugin-styled-components`,
+      options: {
+        // Add any options here
       },
     },
     // this (optional) plugin enables Progressive Web App + Offline functionality
